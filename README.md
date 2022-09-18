@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @shoroksakr
+- 👀 I’m interested in travelling ...
+- 🌱 I’m currently learning digital marketing...
+- 📫 How to reach me? you can mail me on (shoroksakr956@gmail.com)...
+
+<!---
+shoroksakr/shoroksakr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
